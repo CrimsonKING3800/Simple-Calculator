@@ -1,2 +1,2 @@
 # Simple-Calculator
-a calculator built using js
+a calculator built using js ;)
