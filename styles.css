@@ -41,6 +41,9 @@ button{
     font-size: 3rem;
     font-weight: bold;
     cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
 }
 
@@ -53,13 +56,13 @@ button:active{
 }
 
 .operator-btn{
-    background-color: hsl(35,100%,55%);
+    background-color: hsl(85, 100%, 55%);
 }
 
 .operator-btn:hover{
-    background-color: hsl(35,100%,65%);
+    background-color: hsl(85,100%,65%);
 }
 
 .operator-btn:active{
-    background-color: hsl(35,100%,75%);
+    background-color: hsl(85,100%,75%);
 } 
